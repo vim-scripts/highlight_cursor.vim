@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=777
+
+Highlights the cursor so it appears as a reverse block (oldskool!)
+
+Especially useful if for some reason your cursor disappears or is missing, invisible, hidden, or intermittent.
+
+Use Ctrl-C or Ctrl-H to toggle on/off.
